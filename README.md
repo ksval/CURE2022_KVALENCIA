@@ -1,0 +1,2 @@
+# CURE2022_KVALENCIA
+BAT 102 - CURE Class Repository 2022
